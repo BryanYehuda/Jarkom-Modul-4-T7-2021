@@ -3,7 +3,7 @@ Ini adalah repository yang dibuat untuk menampung Jawaban Soal Jarkom Modul 2  T
 #### Nama Anggota Kelompok :      
 1. Naufal Aprilian (05311940000007)     
 2. Bryan Yehuda Mannuel (05311940000021)      
-3. Mulki Kusumah    
+3. Mulki Kusumah (05311940000043)
 
 ## Jawaban Modul 
 ### Soal
@@ -69,4 +69,5 @@ Setelah melakukan pembagian subnet kita juga sudah melakukan perhitungan untuk p
 ![](images/VLSM-perhitungan.png)
 
 
-
+### Kendala
+Kami tidak sempat untuk mengerjakan dengan Metode CIDR, Terima kasih
