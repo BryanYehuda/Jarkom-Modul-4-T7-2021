@@ -71,3 +71,5 @@ Setelah melakukan pembagian subnet kita juga sudah melakukan perhitungan untuk p
 
 ### Kendala
 Kami tidak sempat untuk mengerjakan dengan Metode CIDR, Terima kasih
+Kelompok kami sudah berusaha melakukan perhitungan dan membuat topologi di GNS 3 tetapi masih belum bisa mengerjakannya   
+Untuk hasil perhitungan sementara ada di bagian atas dan GNS3 untuk topologinya sudah ditambahkan
