@@ -1,5 +1,5 @@
 # Jarkom-Modul-4-T7-2021
-Ini adalah repository yang dibuat untuk menampung Jawaban Soal Jarkom Modul 2  Topics Resources  
+### Laporan Resmi Pengerjaan Sesi Lab Jaringan Komputer 
 #### Nama Anggota Kelompok :      
 1. Naufal Aprilian (05311940000007)     
 2. Bryan Yehuda Mannuel (05311940000021)      
