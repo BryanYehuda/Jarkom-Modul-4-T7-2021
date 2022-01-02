@@ -6,7 +6,7 @@ Ini adalah repository yang dibuat untuk menampung Jawaban Soal Jarkom Modul 2  T
 3. Mulki Kusumah (05311940000043)
 
 ## Jawaban Modul 
-### Soal
+## Soal
 Berikut adalah topologi yang harus dibuat
 ![](images/topologi-soal.png)
 1. Soal shift dikerjakan pada Cisco Packet Tracer dan GNS3 menggunakan metode perhitungan CLASSLESS yang berbeda.
@@ -17,8 +17,8 @@ Berikut adalah topologi yang harus dibuat
 6. Pembagian IP dan routing harus SE-EFISIEN MUNGKIN.
 7. Pastikan semua NODE pada GNS3 dapat melakukan ping ke its.ac.id
 
-### Jawaban
-#### Metode VLSM
+## Jawaban
+### Metode VLSM
 Hal pertama yang kami lakukan adalah dengan menentukan subnet yang ada pada topologi. Dikarenakan metode yang dipakai adalah VLSM. Kami melingkari tiap host yang terhubung pada interface router dan menghitung IP yang dibutuhkan. Berikut alah gambaran pembagian subnetnya
 
 ![](images/VLSM-Jarkom-Modul-4-T7-2021.png)
@@ -54,7 +54,7 @@ Maka Konfigurasi pada Router Fosha adalah sebagai berikut:
 
 Selanjutnya untuk seluruh konfigurasi yang telah kita lakukan dapat dilihat di file packet tracer kami
 
-#### Metode CIDR
+### Metode CIDR
 Berikut adalah Hasil Perhitungan kami terhadap Metodologi CIDR
 
 ![](images/Topologi-CIDR.png)
@@ -69,7 +69,7 @@ Setelah melakukan pembagian subnet kita juga sudah melakukan perhitungan untuk p
 ![](images/VLSM-perhitungan.png)
 
 
-### Kendala
+## Kendala
 Kami tidak sempat untuk mengerjakan dengan Metode CIDR, Terima kasih     
 Kelompok kami sudah berusaha melakukan perhitungan dan membuat topologi di GNS 3 tetapi masih belum bisa mengerjakannya   
 Untuk hasil perhitungan sementara ada di bagian atas dan GNS3 untuk topologinya sudah ditambahkan
